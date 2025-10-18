@@ -1,7 +1,7 @@
 streamlit
 torch
 facenet-pytorch
-opencv-python
+opencv-python-headless
 numpy
 Pillow
 plotly
